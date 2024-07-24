@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552358686902198705/98f2007d200449a6b8ebeec53097af1d/artifacts
+end_time: 1721819884236
+entry_point_name: ''
+experiment_id: '552358686902198705'
+lifecycle_stage: active
+run_id: 98f2007d200449a6b8ebeec53097af1d
+run_name: legendary-vole-880
+run_uuid: 98f2007d200449a6b8ebeec53097af1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721819882204
+status: 3
+tags: []
+user_id: jassim

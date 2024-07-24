@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552358686902198705/aa1790e0bd724eea9119c11b607c7f07/artifacts
+end_time: 1721819858524
+entry_point_name: ''
+experiment_id: '552358686902198705'
+lifecycle_stage: active
+run_id: aa1790e0bd724eea9119c11b607c7f07
+run_name: placid-wolf-478
+run_uuid: aa1790e0bd724eea9119c11b607c7f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721819856553
+status: 3
+tags: []
+user_id: jassim

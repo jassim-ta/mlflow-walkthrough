@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552358686902198705/bdb355f1a2f14af0bc14c6325b519ece/artifacts
+end_time: 1721819854656
+entry_point_name: ''
+experiment_id: '552358686902198705'
+lifecycle_stage: active
+run_id: bdb355f1a2f14af0bc14c6325b519ece
+run_name: classy-perch-1000
+run_uuid: bdb355f1a2f14af0bc14c6325b519ece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721819852053
+status: 3
+tags: []
+user_id: jassim

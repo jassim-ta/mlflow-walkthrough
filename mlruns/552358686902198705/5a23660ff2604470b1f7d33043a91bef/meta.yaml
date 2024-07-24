@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552358686902198705/5a23660ff2604470b1f7d33043a91bef/artifacts
+end_time: 1721819856510
+entry_point_name: ''
+experiment_id: '552358686902198705'
+lifecycle_stage: active
+run_id: 5a23660ff2604470b1f7d33043a91bef
+run_name: receptive-ram-510
+run_uuid: 5a23660ff2604470b1f7d33043a91bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721819854693
+status: 3
+tags: []
+user_id: jassim

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/552358686902198705/ce354ac7af2543de864699593cee865b/artifacts
+end_time: 1721819875424
+entry_point_name: ''
+experiment_id: '552358686902198705'
+lifecycle_stage: active
+run_id: ce354ac7af2543de864699593cee865b
+run_name: gentle-cod-953
+run_uuid: ce354ac7af2543de864699593cee865b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721819873543
+status: 3
+tags: []
+user_id: jassim
